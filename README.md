@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSplatStrategist
+- 👋 Hi, I’m 
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : discord @thesplatstrategist
