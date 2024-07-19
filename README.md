@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxence-Orger-Bleuet
 - 👀 I’m interested in aerospace engineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and aerospace engineering
 - 📫 How to reach me : discord @maxence_ob
 
 <!---
