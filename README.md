@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning C++
-- 📫 How to reach me : discord @thesplatstrategist
+- 📫 How to reach me : discord 
 
 <!---
 TheSplatStrategist/TheSplatStrategist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
